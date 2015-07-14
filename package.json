@@ -1,0 +1,24 @@
+{
+  "name": "omero",
+  "version": "0.1.0",
+  "description": "Documentation coverage tool",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ramiel/omero"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "documentation",
+    "coverage",
+    "report"
+  ],
+  "author": "Fabrizio Ruggeri <fabrizio.ruggeri@gmail.com>",
+  "license": "GPL-2.0",
+  "dependencies": {
+    "esprima": "^2.4.1",
+    "nodes": "^0.1.0"
+  }
+}
